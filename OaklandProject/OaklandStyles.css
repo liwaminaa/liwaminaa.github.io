@@ -1,0 +1,33 @@
+h1{ color:red;
+
+  border:4px ;
+  font-size: 500.01%
+}
+
+a {
+  color:rgb(255, 255, 255);
+
+  font-size: 100.01%
+}
+
+h3{
+
+font-size: 300.01%
+  }
+
+h2{
+font-size: 300.01%
+  }
+
+h5{
+font-size: 300.01%
+  }
+body{background-image: url("images/background.jpg");
+}
+.tab{
+  background-color: rgba(0,0,0,0.3);
+}
+
+.tab2{
+  background-color: rgba(0,0,0,.20);
+}
